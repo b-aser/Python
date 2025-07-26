@@ -1,0 +1,17 @@
+chance
+guess
+
+while guess < chance
+    guess += 1
+    display the chance number and takes user input 
+    if
+        user iput and number is same say congrats
+        break
+    elif
+        user input > number
+        this number is high
+    elif    
+        user input < number
+        this nuber is low
+    else
+        Sorry try other time
